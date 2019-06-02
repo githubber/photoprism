@@ -54,7 +54,7 @@ Our long-term goal is to become an open platform for machine learning [research]
 
 ## How to contribute ##
 
-We welcome contributions of any kind. If you have a bug or an idea, read our 
+We welcome contributions of any kind. If you find a bug or have an idea, read our 
 [guide](https://docs.photoprism.org/en/latest/contribute/) before opening an issue.
 Issues labeled [help wanted](https://github.com/photoprism/photoprism/labels/help%20wanted) / 
 [easy](https://github.com/photoprism/photoprism/issues?q=is%3Aissue+is%3Aopen+label%3Aeasy) can be
